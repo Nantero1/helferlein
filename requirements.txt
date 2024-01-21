@@ -1,0 +1,4 @@
+python>=3.10
+dotenv
+langchain-core
+langchain-openai
